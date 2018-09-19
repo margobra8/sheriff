@@ -1,0 +1,12 @@
+{
+  "name": "sheriff",
+  "version": "0.1.0",
+  "description": "Auth Service for IEEE-sb Madrid",
+  "main": "index.js",
+  "repository": "github.com/margobra8/sheriff",
+  "author": "Marcos Gomez <margobra8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-oauth-server": "^2.0.0"
+  }
+}
